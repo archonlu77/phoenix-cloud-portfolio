@@ -1,11 +1,3 @@
-# 🔥 Phoenix Fortress: Month 1 Infrastructure & Security Suite
-
-> A production-grade enterprise network topology, automated Infrastructure-as-Code provisioning suite, and secure Nginx API gateway architecture built from scratch.
-
----
-
-## 🗺️ Architectural Overview
-
 ```mermaid
 flowchart TD
     classDef w1 fill:#FFCDD2,stroke:#B71C1C,stroke-width:2px,color:#B71C1C;
