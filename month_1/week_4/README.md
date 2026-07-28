@@ -15,8 +15,8 @@ flowchart TD
     classDef client fill:#E1BEE7,stroke:#4A148C,stroke-width:2px,color:#4A148C;
 
     subgraph ClientLayer ["🌍 External Client Layer"]
-        Client([Clients / Internet Users])
-	class CLient client
+        Client([Clients / Internet Users])::client
+    end
 
     subgraph W4 ["🟢 Week 4: Edge Gateway & Security"]
         Nginx[Nginx API Gateway <br/> setup_api_nginx.sh]:::w4
